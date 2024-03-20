@@ -44,7 +44,7 @@ It only demonstrates "how Baning works". <b>You shall not misuse the information
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/SHIBIL143/InstaBan.git
+  git clone https://github.com/SHIBIL143/InstaBan.git
   ```
 
 - Now go to cloned directory and run `InstaBan.sh` -
