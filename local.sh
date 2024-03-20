@@ -11,7 +11,7 @@ clear
 figlet S S
 echo This Tool Created By SHIBILGAMER
 echo
-echo "Enter Username without @"
+echo "Enter Victim Username without @"
 read name
 for (( j=1; j<=100; j++ )); do
 echo -ne "searching username...$j%\r"
