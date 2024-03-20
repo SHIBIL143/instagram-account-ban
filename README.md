@@ -1,5 +1,6 @@
 <!-- InstaBan -->
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/SHIBIL143/InstaBan?style=for-the-badge">
