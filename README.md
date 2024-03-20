@@ -50,8 +50,7 @@ It only demonstrates "how Baning works". <b>You shall not misuse the information
 
 - Now go to cloned directory and run `InstaBan.sh` -
   ```
-  $ cd InstaBan
-  $ bash instaban.sh
+  cd InstaBan && bash instaban.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***instaban*** is installed.
