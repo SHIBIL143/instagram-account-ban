@@ -7,6 +7,7 @@ chmod +x instaban.sh
 
 ---------------------------------
 Subscribe:https://youtube.com/@SHIBILGAMER
+
 Follow:https://instagram.com/@___shibil___ms___
 
 
