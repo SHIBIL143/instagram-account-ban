@@ -43,14 +43,9 @@ It only demonstrates "how Baning works". <b>You shall not misuse the information
 
 ### Installation
 
-- Just, Clone this repository -
+- Just, enter this repository -
   ```
-  git clone https://github.com/SHIBIL143/instagram-account-ban.git
-  ```
-
-- Now go to cloned directory and run `InstaBan.sh` -
-  ```
-  cd InstaBan && bash instaban.sh
+  apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && git clone https://github.com/SHIBIL143/instagram-account-ban.git && cd instagram-account-ban && bash instaban.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***instaban*** is installed.
