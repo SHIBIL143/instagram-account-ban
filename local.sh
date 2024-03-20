@@ -9,7 +9,7 @@ sleep 1
 clear
 figlet Insta Ban
 echo This Tool Created By SHIBILGAMER
-echo
+echo Education Purpose Only
 echo "Enter Currect Information else Not Work Ban Tool"
 echo
 echo "Enter Fake Instagram Username:"
